@@ -1,2 +1,3 @@
 # Java-Jeu-de-dames
-Petit jeu de dames simple en Java
+Simple game of checkers in Console.
+Uses a mapping.
